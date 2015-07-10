@@ -36,7 +36,7 @@ There are some extra snippets for elements with children. For instance, you can 
 
 ### Icons
 
-To add icon support, please install [Icon Fonts](https://atom.io/packages/icon-fonts) via apm.
+To add icon support, please install the [Icon Fonts](https://atom.io/packages/icon-fonts) package via apm.
 
 ## License
 
