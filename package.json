@@ -1,0 +1,26 @@
+{
+  "name": "semantic-ui",
+  "version": "0.0.0",
+  "description": "Atom snippets for Semantic UI",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "semantic ui",
+    "html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleberg/atom-semantic-ui"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-json-lint": "^0.1.0"
+  }
+}

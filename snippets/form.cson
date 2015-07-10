@@ -1,0 +1,85 @@
+'.text.html -text.html.markdown':
+  'ui-checkbox':
+    'prefix': 'ui-checkbox'
+    'body': """
+      <div class="ui checkbox">
+      	<input type="checkbox">
+      	<label>$1</label>
+      </div>    """
+  'ui-error-form-segment':
+    'prefix': 'ui-error-form-segment'
+    'body': '<div class="ui error form segment">$1</div>'
+  'ui-error-message':
+    'prefix': 'ui-error-message'
+    'body': '<div class="ui error message">$1</div>'
+  'ui-fluid-form-segment':
+    'prefix': 'ui-fluid-form-segment'
+    'body': '<div class="ui fluid form segment">$1</div>'
+  'ui-form-input':
+    'prefix': 'ui-form-input'
+    'body': """
+      <div class="ui form">
+      	<div class="field">
+      		<label>$1</label>
+      		<input type="${2:text}">
+      	</div>
+      </div>    """
+  'ui-form-segment':
+    'prefix': 'ui-form-segment'
+    'body': """
+      <div class="ui form segment">
+      	<div class="field">$1</div>
+      </div>    """
+  'ui-form-textarea':
+    'prefix': 'ui-form-textarea'
+    'body': """
+      <div class="ui form">
+      	<div class="field">
+      		<label>$1</label>
+      		<textarea>$2</textarea>
+      	</div>
+      </div>    """
+  'ui-form':
+    'prefix': 'ui-form'
+    'body': """
+      <div class="ui form">
+      	<div class="field">
+      		<label>$1</label>
+      	</div>
+      </div>    """
+  'ui-inverted-form':
+    'prefix': 'ui-inverted-form'
+    'body': '<div class="ui inverted form">$1</div>'
+  'ui-large-form-segment':
+    'prefix': 'ui-large-form-segment'
+    'body': '<div class="ui large form segment">$1</div>'
+  'ui-radio-checkbox':
+    'prefix': 'ui-radio-checkbox'
+    'body': """
+      <div class="ui radio checkbox">
+      	<input type="radio" name="$1">
+      	<label>$2</label>
+      </div>    """
+  'ui-slider-checkbox':
+    'prefix': 'ui-slider-checkbox'
+    'body': """
+      <div class="ui slider checkbox">
+      	<input type="checkbox">
+      	<label>$1</label>
+      </div>    """
+  'ui-small-form-segment':
+    'prefix': 'ui-small-form-segment'
+    'body': '<div class="ui small form segment">$1</div>'
+  'ui-toggle-checkbox':
+    'prefix': 'ui-toggle-checkbox'
+    'body': """
+      <div class="ui toggle checkbox">
+      	<input type="checkbox">
+      	<label>$1</label>
+         </div>    """
+  'ui-warning-form-segment':
+    'prefix': 'ui-warning-form-segment'
+    'body': '<div class="ui warning form segment">$1</div>'
+  'ui-warning-message':
+    'prefix': 'ui-warning-message'
+    'body': '<div class="ui warning message">$1</div>'

@@ -1,0 +1,134 @@
+'.text.html -text.html.markdown':
+  'ui-circular-rotate-left-reveal-image':
+    'prefix': 'ui-circular-rotate-left-reveal-image'
+    'body': """
+      <div class="ui circular rotate left reveal image">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-circular-rotate-reveal-image':
+    'prefix': 'ui-circular-rotate-reveal-image'
+    'body': """
+      <div class="ui circular rotate reveal image">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-circular-rotate-right-reveal-image':
+    'prefix': 'ui-circular-rotate-right-reveal-image'
+    'body': """
+      <div class="ui circular rotate right reveal image">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-fade-reveal':
+    'prefix': 'ui-fade-reveal'
+    'body': """
+      <div class="ui fade reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-instant-masked-move-down-reveal':
+    'prefix': 'ui-instant-masked-move-down-reveal'
+    'body': """
+      <div class="ui instant masked move down reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-instant-masked-move-left-reveal':
+    'prefix': 'ui-instant-masked-move-left-reveal'
+    'body': """
+      <div class="ui instant masked move left reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-instant-masked-move-reveal':
+    'prefix': 'ui-instant-masked-move-reveal'
+    'body': """
+      <div class="ui instant masked move reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-instant-masked-move-right-reveal':
+    'prefix': 'ui-instant-masked-move-right-reveal'
+    'body': """
+      <div class="ui instant masked move right reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-instant-masked-move-up-reveal':
+    'prefix': 'ui-instant-masked-move-up-reveal'
+    'body': """
+      <div class="ui instant masked move up reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-masked-move-down-reveal':
+    'prefix': 'ui-masked-move-down-reveal'
+    'body': """
+      <div class="ui masked move down reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-masked-move-left-reveal':
+    'prefix': 'ui-masked-move-left-reveal'
+    'body': """
+      <div class="ui masked move left reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-masked-move-reveal':
+    'prefix': 'ui-masked-move-reveal'
+    'body': """
+      <div class="ui masked move reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-masked-move-right-reveal':
+    'prefix': 'ui-masked-move-right-reveal'
+    'body': """
+      <div class="ui masked move right reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-masked-move-up-reveal':
+    'prefix': 'ui-masked-move-up-reveal'
+    'body': """
+      <div class="ui masked move up reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-move-down-reveal':
+    'prefix': 'ui-move-down-reveal'
+    'body': """
+      <div class="ui move down reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-move-left-reveal':
+    'prefix': 'ui-move-left-reveal'
+    'body': """
+      <div class="ui move left reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-move-reveal':
+    'prefix': 'ui-move-reveal'
+    'body': """
+      <div class="ui move reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-move-right-reveal':
+    'prefix': 'ui-move-right-reveal'
+    'body': """
+      <div class="ui move right reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """
+  'ui-move-up-reveal':
+    'prefix': 'ui-move-up-reveal'
+    'body': """
+      <div class="ui move up reveal">
+      	<img class="visible content" src="$1"${2: alt="$3"}>
+      	<img class="hidden content" src="$1"${2: alt="$3"}>
+      </div>    """

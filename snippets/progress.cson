@@ -1,0 +1,103 @@
+'.text.html -text.html.markdown':
+  'ui-active-progress':
+    'prefix': 'ui-active-progress'
+    'body': """
+      <div class="ui active progress">
+      	<div class="bar"${2: style="width:${3:100%}"}>$4</div>
+      </div>    """
+  'ui-active-striped-progress':
+    'prefix': 'ui-active-striped-progress'
+    'body': """
+      <div class="ui active striped progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-black-progress':
+    'prefix': 'ui-black-progress'
+    'body': """
+      <div class="ui black progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-blue-progress':
+    'prefix': 'ui-blue-progress'
+    'body': """
+      <div class="ui blue progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-bottom-attached-progress':
+    'prefix': 'ui-bottom-attached-progress'
+    'body': """
+      <div class="ui bottom attached progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-disabled-progress':
+    'prefix': 'ui-disabled-progress'
+    'body': """
+      <div class="ui disabled progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-failed-progress':
+    'prefix': 'ui-failed-progress'
+    'body': """
+      <div class="ui failed progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-green-progress':
+    'prefix': 'ui-green-progress'
+    'body': """
+      <div class="ui green progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-orange-progress':
+    'prefix': 'ui-orange-progress'
+    'body': """
+      <div class="ui orange progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-progress':
+    'prefix': 'ui-progress'
+    'body': """
+      <div class="ui progress">
+      	<div class="bar"${2: style="width:${3:100%}"}>$4</div>
+      </div>    """
+  'ui-purple-progress':
+    'prefix': 'ui-purple-progress'
+    'body': """
+      <div class="ui purple progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-red-progress':
+    'prefix': 'ui-red-progress'
+    'body': """
+      <div class="ui red progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-striped-progress':
+    'prefix': 'ui-striped-progress'
+    'body': """
+      <div class="ui striped progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-successful-progress':
+    'prefix': 'ui-successful-progress'
+    'body': """
+      <div class="ui successful progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-teal-progress':
+    'prefix': 'ui-teal-progress'
+    'body': """
+      <div class="ui teal progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-top-attached-progress':
+    'prefix': 'ui-top-attached-progress'
+    'body': """
+      <div class="ui top attached progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """
+  'ui-warning-progress':
+    'prefix': 'ui-warning-progress'
+    'body': """
+      <div class="ui warning progress">
+      	<div class="bar"${2: style="width:${3:100%}>$4</div>
+      </div>    """

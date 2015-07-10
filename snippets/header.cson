@@ -1,0 +1,193 @@
+'.text.html -text.html.markdown':
+  'ui-sub-header':
+    'prefix': 'ui-sub-header'
+    'body': '<div class="sub header">$1</div>'
+  'ui-bottom-attached-header-1':
+    'prefix': 'ui-bottom-attached-header-1'
+    'body': '<h1 class="ui bottom attached header">$1</h1>'
+  'ui-bottom-attached-header':
+    'prefix': 'ui-bottom-attached-header'
+    'body': '<h${1:1} class="ui bottom attached header">$2</h${1:1}>'
+  'ui-bottom-attached-header-2':
+    'prefix': 'ui-bottom-attached-header-2'
+    'body': '<h2 class="ui bottom attached header">$1</h2>'
+  'ui-bottom-attached-header-3':
+    'prefix': 'ui-bottom-attached-header-3'
+    'body': '<h3 class="ui bottom attached header">$1</h3>'
+  'ui-bottom-attached-header-4':
+    'prefix': 'ui-bottom-attached-header-4'
+    'body': '<h4 class="ui bottom attached header">$1</h4>'
+  'ui-bottom-attached-header-5':
+    'prefix': 'ui-bottom-attached-header-5'
+    'body': '<h5 class="ui bottom attached header">$1</h5>'
+  'ui-bottom-attached-header-6':
+    'prefix': 'ui-bottom-attached-header-6'
+    'body': '<h6 class="ui bottom attached header">$1</h6>'
+  'ui-disabled-header':
+    'prefix': 'ui-disabled-header'
+    'body': '<div class="ui disabled header">$1</div>'
+  'ui-dividing-header-1':
+    'prefix': 'ui-dividing-header-1'
+    'body': '<h1 class="ui dividing">$1</h1>'
+  'ui-dividing-header-2':
+    'prefix': 'ui-dividing-header-2'
+    'body': '<h2 class="ui dividing">$1</h2>'
+  'ui-dividing-header-3':
+    'prefix': 'ui-dividing-header-3'
+    'body': '<h3 class="ui dividing">$1</h3>'
+  'ui-dividing-header-4':
+    'prefix': 'ui-dividing-header-4'
+    'body': '<h4 class="ui dividing">$1</h4>'
+  'ui-dividing-header-5':
+    'prefix': 'ui-dividing-header-5'
+    'body': '<h5 class="ui dividing">$1</h5>'
+  'ui-dividing-header-6':
+    'prefix': 'ui-dividing-header-6'
+    'body': '<h6 class="ui dividing">$1</h6>'
+  'ui-dividing-header':
+    'prefix': 'ui-dividing-header'
+    'body': '<h${1:1} class="ui dividing">$2</h${1:1}>'
+  'ui-header-1':
+    'prefix': 'ui-header-1'
+    'body': '<h1 class="ui header">$1</h1>'
+  'ui-header-2':
+    'prefix': 'ui-header-2'
+    'body': '<h2 class="ui header">$1</h2>'
+  'ui-header-3':
+    'prefix': 'ui-header-3'
+    'body': '<h3 class="ui header">$1</h3>'
+  'ui-header-4':
+    'prefix': 'ui-header-4'
+    'body': '<h4 class="ui header">$1</h4>'
+  'ui-header-5':
+    'prefix': 'ui-header-5'
+    'body': '<h5 class="ui header">$1</h5>'
+  'ui-header-6':
+    'prefix': 'ui-header-6'
+    'body': '<h6 class="ui header">$1</h6>'
+  'ui-header':
+    'prefix': 'ui-header'
+    'body': '<h${1:1} class="ui header">$2</h${1:1}>'
+  'ui-huge-header':
+    'prefix': 'ui-huge-header'
+    'body': '<div class="ui huge header">$1</div>'
+  'ui-icon-header':
+    'prefix': 'ui-icon-header'
+    'body': '<div class="ui icon header">$1</div>'
+  'ui-large-header':
+    'prefix': 'ui-large-header'
+    'body': '<div class="ui large header">$1</div>'
+  'ui-left-aligned-header-1':
+    'prefix': 'ui-left-aligned-header-1'
+    'body': '<h1 class="ui left aligned header">$1</h1>'
+  'ui-left-aligned-header-2':
+    'prefix': 'ui-left-aligned-header-2'
+    'body': '<h2 class="ui left aligned header">$1</h2>'
+  'ui-left-aligned-header-3':
+    'prefix': 'ui-left-aligned-header-3'
+    'body': '<h3 class="ui left aligned header">$1</h3>'
+  'ui-left-aligned-header-4':
+    'prefix': 'ui-left-aligned-header-4'
+    'body': '<h4 class="ui left aligned header">$1</h4>'
+  'ui-left-aligned-header-5':
+    'prefix': 'ui-left-aligned-header-5'
+    'body': '<h5 class="ui left aligned header">$1</h5>'
+  'ui-left-aligned-header-6':
+    'prefix': 'ui-left-aligned-header-6'
+    'body': '<h6 class="ui left aligned header">$1</h6>'
+  'ui-left-aligned-header':
+    'prefix': 'ui-left-aligned-header'
+    'body': '<h${1:1} class="ui left aligned header">$2</h${1:1}>'
+  'ui-left-floated-header-1':
+    'prefix': 'ui-left-floated-header-1'
+    'body': '<h1 class="ui left floated header">$1</h1>'
+  'ui-left-floated-header-2':
+    'prefix': 'ui-left-floated-header-2'
+    'body': '<h2 class="ui left floated header">$1</h2>'
+  'ui-left-floated-header-3':
+    'prefix': 'ui-left-floated-header-3'
+    'body': '<h3 class="ui left floated header">$1</h3>'
+  'ui-left-floated-header-4':
+    'prefix': 'ui-left-floated-header-4'
+    'body': '<h4 class="ui left floated header">$1</h4>'
+  'ui-left-floated-header-5':
+    'prefix': 'ui-left-floated-header-5'
+    'body': '<h5 class="ui left floated header">$1</h5>'
+  'ui-left-floated-header-6':
+    'prefix': 'ui-left-floated-header-6'
+    'body': '<h6 class="ui left floated header">$1</h6>'
+  'ui-left-floated-header':
+    'prefix': 'ui-left-floated-header'
+    'body': '<h${1:1} class="ui left floated header">$2</h${1:1}>'
+  'ui-medium-header':
+    'prefix': 'ui-medium-header'
+    'body': '<div class="ui medium header">$1</div>'
+  'ui-right-aligned-header-1':
+    'prefix': 'ui-right-aligned-header-1'
+    'body': '<h1 class="ui right aligned header">$1</h1>'
+  'ui-right-aligned-header-2':
+    'prefix': 'ui-right-aligned-header-2'
+    'body': '<h2 class="ui right aligned header">$1</h2>'
+  'ui-right-aligned-header-3':
+    'prefix': 'ui-right-aligned-header-3'
+    'body': '<h3 class="ui right aligned header">$1</h3>'
+  'ui-right-aligned-header-4':
+    'prefix': 'ui-right-aligned-header-4'
+    'body': '<h4 class="ui right aligned header">$1</h4>'
+  'ui-right-aligned-header-5':
+    'prefix': 'ui-right-aligned-header-5'
+    'body': '<h5 class="ui right aligned header">$1</h5>'
+  'ui-right-aligned-header-6':
+    'prefix': 'ui-right-aligned-header-6'
+    'body': '<h6 class="ui right aligned header">$1</h6>'
+  'ui-right-aligned-header':
+    'prefix': 'ui-right-aligned-header'
+    'body': '<h${1:1} class="ui right aligned header">$2</h${1:1}>'
+  'ui-right-floated-header-1':
+    'prefix': 'ui-right-floated-header-1'
+    'body': '<h1 class="ui right floated header">$1</h1>'
+  'ui-right-floated-header-2':
+    'prefix': 'ui-right-floated-header-2'
+    'body': '<h2 class="ui right floated header">$1</h2>'
+  'ui-right-floated-header-3':
+    'prefix': 'ui-right-floated-header-3'
+    'body': '<h3 class="ui right floated header">$1</h3>'
+  'ui-right-floated-header-4':
+    'prefix': 'ui-right-floated-header-4'
+    'body': '<h4 class="ui right floated header">$1</h4>'
+  'ui-right-floated-header-5':
+    'prefix': 'ui-right-floated-header-5'
+    'body': '<h5 class="ui right floated header">$1</h5>'
+  'ui-right-floated-header-6':
+    'prefix': 'ui-right-floated-header-6'
+    'body': '<h6 class="ui right floated header">$1</h6>'
+  'ui-right-floated-header':
+    'prefix': 'ui-right-floated-header'
+    'body': '<h${1:1} class="ui right floated header">$2</h${1:1}>'
+  'ui-small-header':
+    'prefix': 'ui-small-header'
+    'body': '<div class="ui small header">$1</div>'
+  'ui-tiny-header':
+    'prefix': 'ui-tiny-header'
+    'body': '<div class="ui tiny header">$1</div>'
+  'ui-top-attached-header-1':
+    'prefix': 'ui-top-attached-header-1'
+    'body': '<h1 class="ui top attached header">$1</h1>'
+  'ui-top-attached-header-2':
+    'prefix': 'ui-top-attached-header-2'
+    'body': '<h2 class="ui top attached header">$1</h2>'
+  'ui-top-attached-header-3':
+    'prefix': 'ui-top-attached-header-3'
+    'body': '<h3 class="ui top attached header">$1</h3>'
+  'ui-top-attached-header-4':
+    'prefix': 'ui-top-attached-header-4'
+    'body': '<h4 class="ui top attached header">$1</h4>'
+  'ui-top-attached-header-5':
+    'prefix': 'ui-top-attached-header-5'
+    'body': '<h5 class="ui top attached header">$1</h5>'
+  'ui-top-attached-header-6':
+    'prefix': 'ui-top-attached-header-6'
+    'body': '<h6 class="ui top attached header">$1</h6>'
+  'ui-top-attached-header':
+    'prefix': 'ui-top-attached-header'
+    'body': '<h${1:1} class="ui top attached header">$2</h${1:1}>'

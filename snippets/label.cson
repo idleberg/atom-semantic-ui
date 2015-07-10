@@ -1,0 +1,336 @@
+'.text.html -text.html.markdown':
+  'ui-2-large-labels':
+    'prefix': 'ui-2-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      </div>    """
+  'ui-2-small-labels':
+    'prefix': 'ui-2-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      </div>    """
+  'ui-3-large-labels':
+    'prefix': 'ui-3-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      </div>    """
+  'ui-3-small-labels':
+    'prefix': 'ui-3-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      </div>    """
+  'ui-4-large-labels':
+    'prefix': 'ui-4-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      </div>    """
+  'ui-4-small-labels':
+    'prefix': 'ui-4-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      </div>    """
+  'ui-5-large-labels':
+    'prefix': 'ui-5-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      </div>    """
+  'ui-5-small-labels':
+    'prefix': 'ui-5-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      </div>    """
+  'ui-6-large-labels':
+    'prefix': 'ui-6-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      </div>    """
+  'ui-6-small-labels':
+    'prefix': 'ui-6-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      </div>    """
+  'ui-7-large-labels':
+    'prefix': 'ui-7-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      </div>    """
+  'ui-7-small-labels':
+    'prefix': 'ui-7-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      </div>    """
+  'ui-8-large-labels':
+    'prefix': 'ui-8-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      	<div class="ui label">$8</div>
+      </div>    """
+  'ui-8-small-labels':
+    'prefix': 'ui-8-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      	<div class="ui label">$8</div>
+      </div>    """
+  'ui-9-large-labels':
+    'prefix': 'ui-9-large-labels'
+    'body': """
+      <div class="ui large labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      	<div class="ui label">$8</div>
+      	<div class="ui label">$9</div>
+      </div>    """
+  'ui-9-small-labels':
+    'prefix': 'ui-9-small-labels'
+    'body': """
+      <div class="ui small labels">
+      	<div class="ui label">$1</div>
+      	<div class="ui label">$2</div>
+      	<div class="ui label">$3</div>
+      	<div class="ui label">$4</div>
+      	<div class="ui label">$5</div>
+      	<div class="ui label">$6</div>
+      	<div class="ui label">$7</div>
+      	<div class="ui label">$8</div>
+      	<div class="ui label">$9</div>
+      </div>    """
+  'ui-black-circular-label':
+    'prefix': 'ui-black-circular-label'
+    'body': '<${1:div} class="ui black circular label">$2</${1:div}>'
+  'ui-black-horizontal-label':
+    'prefix': 'ui-black-horizontal-label'
+    'body': '<div class="ui black horizontal label">Fruit</div>'
+  'ui-black-label':
+    'prefix': 'ui-black-label'
+    'body': '<${1:div} class="ui black label">$2</${1:div}>'
+  'ui-blue-circular-label':
+    'prefix': 'ui-blue-circular-label'
+    'body': '<${1:div} class="ui blue circular label">$2</${1:div}>'
+  'ui-blue-horizontal-label':
+    'prefix': 'ui-blue-horizontal-label'
+    'body': '<div class="ui blue horizontal label">Fruit</div>'
+  'ui-blue-label':
+    'prefix': 'ui-blue-label'
+    'body': '<${1:div} class="ui blue label">$2</${1:div}>'
+  'ui-bottom-attached-label':
+    'prefix': 'ui-bottom-attached-label'
+    'body': '<div class="ui bottom attached label">$1</div>'
+  'ui-bottom-left-attached-label':
+    'prefix': 'ui-bottom-left-attached-label'
+    'body': '<div class="ui bottom left attached label">$1</div>'
+  'ui-bottom-right-attached-label':
+    'prefix': 'ui-bottom-right-attached-label'
+    'body': '<div class="ui bottom right attached label">$1</div>'
+  'ui-circular-label':
+    'prefix': 'ui-circular-label'
+    'body': '<${1:div} class="ui circular label">$2</${1:div}>'
+  'ui-circular-labels':
+    'prefix': 'ui-circular-labels'
+    'body': '<div class="ui circular labels">$1</div>'
+  'ui-floating-black-circular-label':
+    'prefix': 'ui-floating-black-circular-label'
+    'body': '<${1:div} class="floating ui black label">$2</${1:div}>'
+  'ui-floating-blue-circular-label':
+    'prefix': 'ui-floating-blue-circular-label'
+    'body': '<${1:div} class="floating ui blue label">$2</${1:div}>'
+  'ui-floating-circular-label':
+    'prefix': 'ui-floating-circular-label'
+    'body': '<${1:div} class="floating ui label">$2</${1:div}>'
+  'ui-floating-green-circular-label':
+    'prefix': 'ui-floating-green-circular-label'
+    'body': '<${1:div} class="floating ui green label">$2</${1:div}>'
+  'ui-floating-orange-circular-label':
+    'prefix': 'ui-floating-orange-circular-label'
+    'body': '<${1:div} class="floating ui orange label">$2</${1:div}>'
+  'ui-floating-purple-circular-label':
+    'prefix': 'ui-floating-purple-circular-label'
+    'body': '<${1:div} class="floating ui purple label">$2</${1:div}>'
+  'ui-floating-red-circular-label':
+    'prefix': 'ui-floating-red-circular-label'
+    'body': '<${1:div} class="floating ui red label">$2</${1:div}>'
+  'ui-floating-teal-circular-label':
+    'prefix': 'ui-floating-teal-circular-label'
+    'body': '<${1:div} class="floating ui teal label">$2</${1:div}>'
+  'ui-green-circular-label':
+    'prefix': 'ui-green-circular-label'
+    'body': '<${1:div} class="ui green circular label">$2</${1:div}>'
+  'ui-green-horizontal-label':
+    'prefix': 'ui-green-horizontal-label'
+    'body': '<div class="ui green horizontal label">Fruit</div>'
+  'ui-green-label':
+    'prefix': 'ui-green-label'
+    'body': '<${1:div} class="ui green label">$2</${1:div}>'
+  'ui-horizontal-label':
+    'prefix': 'ui-horizontal-label'
+    'body': '<div class="ui horizontal label">Fruit</div>'
+  'ui-image-label':
+    'prefix': 'ui-image-label'
+    'body': '<div class="ui right red corner label">$1</div>'
+  'ui-label-detail':
+    'prefix': 'ui-label-detail'
+    'body': """
+      <div class="ui label">
+      	$1
+      	<div class="detail">$2</div>
+      </div>    """
+  'ui-label-icon':
+    'prefix': 'ui-label-icon'
+    'body': """
+      <div class="ui label">
+      	$1
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-label':
+    'prefix': 'ui-label'
+    'body': '<div class="ui label">$1</div>'
+  'ui-large-label':
+    'prefix': 'ui-large-label'
+    'body': '<div class="ui large label">$1</div>'
+  'ui-large-labels':
+    'prefix': 'ui-large-labels'
+    'body': '<div class="ui large labels">$1</div>'
+  'ui-left-corner-label':
+    'prefix': 'ui-left-corner-label'
+    'body': '<div class="ui left corner label">$1</div>'
+  'ui-orange-circular-label':
+    'prefix': 'ui-orange-circular-label'
+    'body': '<${1:div} class="ui orange circular label">$2</${1:div}>'
+  'ui-orange-horizontal-label':
+    'prefix': 'ui-orange-horizontal-label'
+    'body': '<div class="ui orange horizontal label">Fruit</div>'
+  'ui-orange-label':
+    'prefix': 'ui-orange-label'
+    'body': '<${1:div} class="ui orange label">$2</${1:div}>'
+  'ui-pointing-below-label':
+    'prefix': 'ui-pointing-below-label'
+    'body': '<div class="ui pointing below label">$1</div>'
+  'ui-pointing-label':
+    'prefix': 'ui-pointing-label'
+    'body': '<div class="ui pointing label">$1</div>'
+  'ui-pointing-left-label':
+    'prefix': 'ui-pointing-left-label'
+    'body': '<div class="ui pointing left label">$1</div>'
+  'ui-pointing-right-label':
+    'prefix': 'ui-pointing-right-label'
+    'body': '<div class="ui pointing right label">$1</div>'
+  'ui-purple-circular-label':
+    'prefix': 'ui-purple-circular-label'
+    'body': '<${1:div} class="ui purple circular label">$2</${1:div}>'
+  'ui-purple-horizontal-label':
+    'prefix': 'ui-purple-horizontal-label'
+    'body': '<div class="ui purple horizontal label">Fruit</div>'
+  'ui-purple-label':
+    'prefix': 'ui-purple-label'
+    'body': '<${1:div} class="ui purple label">$2</${1:div}>'
+  'ui-red-circular-label':
+    'prefix': 'ui-red-circular-label'
+    'body': '<${1:div} class="ui red circular label">$2</${1:div}>'
+  'ui-red-horizontal-label':
+    'prefix': 'ui-red-horizontal-label'
+    'body': '<div class="ui red horizontal label">Fruit</div>'
+  'ui-red-label':
+    'prefix': 'ui-red-label'
+    'body': '<${1:div} class="ui red label">$2</${1:div}>'
+  'ui-ribbon-label':
+    'prefix': 'ui-ribbon-label'
+    'body': '<div class="ui ribbon label">$1</div>'
+  'ui-right-corner-label':
+    'prefix': 'ui-right-corner-label'
+    'body': '<div class="ui right corner label">$1</div>'
+  'ui-small-label':
+    'prefix': 'ui-small-label'
+    'body': '<div class="ui small label">$1</div>'
+  'ui-small-labels':
+    'prefix': 'ui-small-labels'
+    'body': '<div class="ui small labels">$1</div>'
+  'ui-teal-circular-label':
+    'prefix': 'ui-teal-circular-label'
+    'body': '<${1:div} class="ui teal circular label">$2</${1:div}>'
+  'ui-teal-horizontal-label':
+    'prefix': 'ui-teal-horizontal-label'
+    'body': '<div class="ui teal horizontal label">Fruit</div>'
+  'ui-teal-label':
+    'prefix': 'ui-teal-label'
+    'body': '<${1:div} class="ui teal label">$2</${1:div}>'
+  'ui-top-attached-label':
+    'prefix': 'ui-top-attached-label'
+    'body': '<div class="ui top attached label">$1</div>'
+  'ui-top-left-attached-label':
+    'prefix': 'ui-top-left-attached-label'
+    'body': '<div class="ui top left attached label">$1</div>'
+  'ui-top-right-attached-label':
+    'prefix': 'ui-top-right-attached-label'
+    'body': '<div class="ui top right attached label">$1</div>'

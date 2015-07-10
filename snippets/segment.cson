@@ -1,0 +1,205 @@
+'.text.html -text.html.markdown':
+  'ui-attached-segment':
+    'prefix': 'ui-attached-segment'
+    'body': '<div class="ui attached segment">$1</div>'
+  'ui-basic-segment':
+    'prefix': 'ui-basic-segment'
+    'body': '<div class="ui basic segment">$1</div>'
+  'ui-black-inverted-circular-segment':
+    'prefix': 'ui-black-inverted-circular-segment'
+    'body': '<div class="ui black inverted circular segment">$1</div>'
+  'ui-black-inverted-segment':
+    'prefix': 'ui-black-inverted-segment'
+    'body': '<div class="ui black inverted segment">$1</div>'
+  'ui-black-segment':
+    'prefix': 'ui-black-segment'
+    'body': '<div class="ui black segment">$1</div>'
+  'ui-blue-inverted-circular-segment':
+    'prefix': 'ui-blue-inverted-circular-segment'
+    'body': '<div class="ui blue inverted circular segment">$1</div>'
+  'ui-blue-inverted-segment':
+    'prefix': 'ui-blue-inverted-segment'
+    'body': '<div class="ui blue inverted segment">$1</div>'
+  'ui-blue-segment':
+    'prefix': 'ui-blue-segment'
+    'body': '<div class="ui blue segment">$1</div>'
+  'ui-bottom-attached-segment':
+    'prefix': 'ui-bottom-attached-segment'
+    'body': '<div class="ui bottom attached segment">$1</div>'
+  'ui-center-aligned-segment':
+    'prefix': 'ui-center-aligned-segment'
+    'body': '<div class="ui center aligned segment">$1</div>'
+  'ui-circular-segment':
+    'prefix': 'ui-circular-segment'
+    'body': '<div class="ui circular segment">$1</div>'
+  'ui-disabled-segment':
+    'prefix': 'ui-disabled-segment'
+    'body': '<div class="ui disabled segment">$1</div>'
+  'ui-green-inverted-circular-segment':
+    'prefix': 'ui-green-inverted-circular-segment'
+    'body': '<div class="ui green inverted circular segment">$1</div>'
+  'ui-green-inverted-segment':
+    'prefix': 'ui-green-inverted-segment'
+    'body': '<div class="ui green inverted segment">$1</div>'
+  'ui-green-segment':
+    'prefix': 'ui-green-segment'
+    'body': '<div class="ui green segment">$1</div>'
+  'ui-horizontal-segment':
+    'prefix': 'ui-horizontal-segment'
+    'body': '<div class="ui horizontal segment">$1</div>'
+  'ui-inverted-circular-segment':
+    'prefix': 'ui-inverted-circular-segment'
+    'body': '<div class="ui inverted circular segment">$1</div>'
+  'ui-inverted-segment':
+    'prefix': 'ui-inverted-segment'
+    'body': '<div class="ui inverted segment">$1</div>'
+  'ui-justified-aligned-segment':
+    'prefix': 'ui-justified-aligned-segment'
+    'body': '<div class="ui justified aligned segment">$1</div>'
+  'ui-left-aligned-segment':
+    'prefix': 'ui-left-aligned-segment'
+    'body': '<div class="ui left aligned segment">$1</div>'
+  'ui-left-floated-segment':
+    'prefix': 'ui-left-floated-segment'
+    'body': '<div class="ui left floated segment">$1</div>'
+  'ui-orange-inverted-circular-segment':
+    'prefix': 'ui-orange-inverted-circular-segment'
+    'body': '<div class="ui orange inverted circular segment">$1</div>'
+  'ui-orange-inverted-segment':
+    'prefix': 'ui-orange-inverted-segment'
+    'body': '<div class="ui orange inverted segment">$1</div>'
+  'ui-orange-segment':
+    'prefix': 'ui-orange-segment'
+    'body': '<div class="ui orange segment">$1</div>'
+  'ui-piled-segment':
+    'prefix': 'ui-piled-segment'
+    'body': '<div class="ui piled segment">$1</div>'
+  'ui-primary-inverted-black-segment':
+    'prefix': 'ui-primary-inverted-black-segment'
+    'body': '<div class="ui primary inverted black segment">$1</div>'
+  'ui-primary-inverted-blue-segment':
+    'prefix': 'ui-primary-inverted-blue-segment'
+    'body': '<div class="ui primary inverted blue segment">$1</div>'
+  'ui-primary-inverted-green-segment':
+    'prefix': 'ui-primary-inverted-green-segment'
+    'body': '<div class="ui primary inverted green segment">$1</div>'
+  'ui-primary-inverted-orange-segment':
+    'prefix': 'ui-primary-inverted-orange-segment'
+    'body': '<div class="ui primary inverted orange segment">$1</div>'
+  'ui-primary-inverted-purple-segment':
+    'prefix': 'ui-primary-inverted-purple-segment'
+    'body': '<div class="ui primary inverted purple segment">$1</div>'
+  'ui-primary-inverted-red-segment':
+    'prefix': 'ui-primary-inverted-red-segment'
+    'body': '<div class="ui primary inverted red segment">$1</div>'
+  'ui-primary-inverted-segment':
+    'prefix': 'ui-primary-inverted-segment'
+    'body': '<div class="ui primary inverted segment">$1</div>'
+  'ui-primary-inverted-teal-segment':
+    'prefix': 'ui-primary-inverted-teal-segment'
+    'body': '<div class="ui primary inverted teal segment">$1</div>'
+  'ui-primary-segment':
+    'prefix': 'ui-primary-segment'
+    'body': '<div class="ui primary segment">$1</div>'
+  'ui-purple-inverted-circular-segment':
+    'prefix': 'ui-purple-inverted-circular-segment'
+    'body': '<div class="ui purple inverted circular segment">$1</div>'
+  'ui-purple-inverted-segment':
+    'prefix': 'ui-purple-inverted-segment'
+    'body': '<div class="ui purple inverted segment">$1</div>'
+  'ui-purple-segment':
+    'prefix': 'ui-purple-segment'
+    'body': '<div class="ui purple segment">$1</div>'
+  'ui-raised-segment':
+    'prefix': 'ui-raised-segment'
+    'body': '<div class="ui raised segment">$1</div>'
+  'ui-red-inverted-circular-segment':
+    'prefix': 'ui-red-inverted-circular-segment'
+    'body': '<div class="ui red inverted circular segment">$1</div>'
+  'ui-red-inverted-segment':
+    'prefix': 'ui-red-inverted-segment'
+    'body': '<div class="ui red inverted segment">$1</div>'
+  'ui-red-segment':
+    'prefix': 'ui-red-segment'
+    'body': '<div class="ui red segment">$1</div>'
+  'ui-right-aligned-segment':
+    'prefix': 'ui-right-aligned-segment'
+    'body': '<div class="ui right aligned segment">$1</div>'
+  'ui-right-floated-segment':
+    'prefix': 'ui-right-floated-segment'
+    'body': '<div class="ui right floated segment">$1</div>'
+  'ui-secondary-inverted-black-segment':
+    'prefix': 'ui-secondary-inverted-black-segment'
+    'body': '<div class="ui secondary inverted black segment">$1</div>'
+  'ui-secondary-inverted-blue-segment':
+    'prefix': 'ui-secondary-inverted-blue-segment'
+    'body': '<div class="ui secondary inverted blue segment">$1</div>'
+  'ui-secondary-inverted-green-segment':
+    'prefix': 'ui-secondary-inverted-green-segment'
+    'body': '<div class="ui secondary inverted green segment">$1</div>'
+  'ui-secondary-inverted-orange-segment':
+    'prefix': 'ui-secondary-inverted-orange-segment'
+    'body': '<div class="ui secondary inverted orange segment">$1</div>'
+  'ui-secondary-inverted-purple-segment':
+    'prefix': 'ui-secondary-inverted-purple-segment'
+    'body': '<div class="ui secondary inverted purple segment">$1</div>'
+  'ui-secondary-inverted-red-segment':
+    'prefix': 'ui-secondary-inverted-red-segment'
+    'body': '<div class="ui secondary inverted red segment">$1</div>'
+  'ui-secondary-inverted-segment':
+    'prefix': 'ui-secondary-inverted-segment'
+    'body': '<div class="ui secondary inverted segment">$1</div>'
+  'ui-secondary-inverted-teal-segment':
+    'prefix': 'ui-secondary-inverted-teal-segment'
+    'body': '<div class="ui secondary inverted teal segment">$1</div>'
+  'ui-secondary-segment':
+    'prefix': 'ui-secondary-segment'
+    'body': '<div class="ui secondary segment">$1</div>'
+  'ui-segment':
+    'prefix': 'ui-segment'
+    'body': '<div class="ui segment">$1</div>'
+  'ui-stacked-segment':
+    'prefix': 'ui-stacked-segment'
+    'body': '<div class="ui stacked segment">$1</div>'
+  'ui-teal-inverted-circular-segment':
+    'prefix': 'ui-teal-inverted-circular-segment'
+    'body': '<div class="ui teal inverted circular segment">$1</div>'
+  'ui-teal-inverted-segment':
+    'prefix': 'ui-teal-inverted-segment'
+    'body': '<div class="ui teal inverted segment">$1</div>'
+  'ui-teal-segment':
+    'prefix': 'ui-teal-segment'
+    'body': '<div class="ui teal segment">$1</div>'
+  'ui-tertiary-inverted-black-segment':
+    'prefix': 'ui-tertiary-inverted-black-segment'
+    'body': '<div class="ui tertiary inverted black segment">$1</div>'
+  'ui-tertiary-inverted-blue-segment':
+    'prefix': 'ui-tertiary-inverted-blue-segment'
+    'body': '<div class="ui tertiary inverted blue segment">$1</div>'
+  'ui-tertiary-inverted-green-segment':
+    'prefix': 'ui-tertiary-inverted-green-segment'
+    'body': '<div class="ui tertiary inverted green segment">$1</div>'
+  'ui-tertiary-inverted-orange-segment':
+    'prefix': 'ui-tertiary-inverted-orange-segment'
+    'body': '<div class="ui tertiary inverted orange segment">$1</div>'
+  'ui-tertiary-inverted-purple-segment':
+    'prefix': 'ui-tertiary-inverted-purple-segment'
+    'body': '<div class="ui tertiary inverted purple segment">$1</div>'
+  'ui-tertiary-inverted-red-segment':
+    'prefix': 'ui-tertiary-inverted-red-segment'
+    'body': '<div class="ui tertiary inverted red segment">$1</div>'
+  'ui-tertiary-inverted-segment':
+    'prefix': 'ui-tertiary-inverted-segment'
+    'body': '<div class="ui tertiary inverted segment">$1</div>'
+  'ui-tertiary-inverted-teal-segment':
+    'prefix': 'ui-tertiary-inverted-teal-segment'
+    'body': '<div class="ui tertiary inverted teal segment">$1</div>'
+  'ui-tertiary-segment':
+    'prefix': 'ui-tertiary-segment'
+    'body': '<div class="ui tertiary segment">$1</div>'
+  'ui-top-attached-segment':
+    'prefix': 'ui-top-attached-segment'
+    'body': '<div class="ui top attached segment">$1</div>'
+  'ui-vertical-segment':
+    'prefix': 'ui-vertical-segment'
+    'body': '<div class="ui vertical segment">$1</div>'

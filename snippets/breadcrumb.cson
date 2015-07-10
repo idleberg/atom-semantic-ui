@@ -1,0 +1,13 @@
+'.text.html -text.html.markdown':
+  'ui-breadcrumb':
+    'prefix': 'ui-breadcrumb'
+    'body': '<div class="ui breadcrumb">$1</div>'
+  'ui-huge-breadcrumb':
+    'prefix': 'ui-huge-breadcrumb'
+    'body': '<div class="ui huge breadcrumb">$1</div>'
+  'ui-large-breadcrumb':
+    'prefix': 'ui-large-breadcrumb'
+    'body': '<div class="ui large breadcrumb">$1</div>'
+  'ui-small-breadcrumb':
+    'prefix': 'ui-small-breadcrumb'
+    'body': '<div class="ui small breadcrumb">$1</div>'

@@ -1,0 +1,25 @@
+'.text.html -text.html.markdown':
+  'ui-clearing-divider':
+    'prefix': 'ui-clearing-divider'
+    'body': '<div class="ui clearing divider></div>'
+  'ui-divider':
+    'prefix': 'ui-divider'
+    'body': '<div class="ui divider></div>'
+  'ui-fitted-divider':
+    'prefix': 'ui-fitted-divider'
+    'body': '<div class="ui fitted divider></div>'
+  'ui-horizontal-divider':
+    'prefix': 'ui-horizontal-divider'
+    'body': '<div class="ui horizontal divider></div>'
+  'ui-horizontal-icon-divider':
+    'prefix': 'ui-horizontal-icon-divider'
+    'body': '<div class="ui horizontal icon divider></div>'
+  'ui-inverted-divider':
+    'prefix': 'ui-inverted-divider'
+    'body': '<div class="ui inverted divider></div>'
+  'ui-section-divider':
+    'prefix': 'ui-section-divider'
+    'body': '<div class="ui section divider></div>'
+  'ui-vertical-divider':
+    'prefix': 'ui-vertical-divider'
+    'body': '<div class="ui vertical divider></div>'

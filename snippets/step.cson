@@ -1,0 +1,367 @@
+'.text.html -text.html.markdown':
+  'ui-2-large-steps':
+    'prefix': 'ui-2-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      </div>    """
+  'ui-2-small-steps':
+    'prefix': 'ui-2-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      </div>    """
+  'ui-2-steps':
+    'prefix': 'ui-2-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      </div>    """
+  'ui-2-vertical-steps':
+    'prefix': 'ui-2-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      </div>    """
+  'ui-3-large-steps':
+    'prefix': 'ui-3-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      </div>    """
+  'ui-3-small-steps':
+    'prefix': 'ui-3-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      </div>    """
+  'ui-3-steps':
+    'prefix': 'ui-3-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      </div>    """
+  'ui-3-vertical-steps':
+    'prefix': 'ui-3-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      </div>    """
+  'ui-4-large-steps':
+    'prefix': 'ui-4-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      </div>    """
+  'ui-4-small-steps':
+    'prefix': 'ui-4-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      </div>    """
+  'ui-4-steps':
+    'prefix': 'ui-4-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      </div>    """
+  'ui-4-vertical-steps':
+    'prefix': 'ui-4-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      </div>    """
+  'ui-5-large-steps':
+    'prefix': 'ui-5-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      </div>    """
+  'ui-5-small-steps':
+    'prefix': 'ui-5-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      </div>    """
+  'ui-5-steps':
+    'prefix': 'ui-5-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      </div>    """
+  'ui-5-vertical-steps':
+    'prefix': 'ui-5-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      </div>    """
+  'ui-6-large-steps':
+    'prefix': 'ui-6-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      </div>    """
+  'ui-6-small-steps':
+    'prefix': 'ui-6-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      </div>    """
+  'ui-6-steps':
+    'prefix': 'ui-6-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      </div>    """
+  'ui-6-vertical-steps':
+    'prefix': 'ui-6-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      </div>    """
+  'ui-7-large-steps':
+    'prefix': 'ui-7-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      </div>    """
+  'ui-7-small-steps':
+    'prefix': 'ui-7-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      </div>    """
+  'ui-7-steps':
+    'prefix': 'ui-7-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      </div>    """
+  'ui-7-vertical-steps':
+    'prefix': 'ui-7-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      </div>    """
+  'ui-8-large-steps':
+    'prefix': 'ui-8-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      </div>    """
+  'ui-8-small-steps':
+    'prefix': 'ui-8-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      </div>    """
+  'ui-8-steps':
+    'prefix': 'ui-8-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      </div>    """
+  'ui-8-vertical-steps':
+    'prefix': 'ui-8-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      </div>    """
+  'ui-9-large-steps':
+    'prefix': 'ui-9-large-steps'
+    'body': """
+      <div class="ui large steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      	<div class="ui step">$9</div>
+      </div>    """
+  'ui-9-small-steps':
+    'prefix': 'ui-9-small-steps'
+    'body': """
+      <div class="ui small steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      	<div class="ui step">$9</div>
+      </div>    """
+  'ui-9-steps':
+    'prefix': 'ui-9-steps'
+    'body': """
+      <div class="ui steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      	<div class="ui step">$9</div>
+      </div>    """
+  'ui-9-vertical-steps':
+    'prefix': 'ui-9-vertical-steps'
+    'body': """
+      <div class="ui 2 vertical steps">
+      	<div class="ui step">$1</div>
+      	<div class="ui step">$2</div>
+      	<div class="ui step">$3</div>
+      	<div class="ui step">$4</div>
+      	<div class="ui step">$5</div>
+      	<div class="ui step">$6</div>
+      	<div class="ui step">$7</div>
+      	<div class="ui step">$8</div>
+      	<div class="ui step">$9</div>
+      </div>    """
+  'ui-active-step':
+    'prefix': 'ui-active-step'
+    'body': '<div class="ui active step">$1</div>'
+  'ui-active-two-line-step':
+    'prefix': 'ui-active-two-line-step'
+    'body': '<div class="ui active two line step">$1</div>'
+  'ui-disabled-step':
+    'prefix': 'ui-disabled-step'
+    'body': '<div class="ui disabled step">$1</div>'
+  'ui-disabled-two-line-step':
+    'prefix': 'ui-disabled-two-line-step'
+    'body': '<div class="ui disabled two line step">$1</div>'
+  'ui-large-steps':
+    'prefix': 'ui-large-steps'
+    'body': '<div class="ui large steps">$1</div>'
+  'ui-small-steps':
+    'prefix': 'ui-small-steps'
+    'body': '<div class="ui small steps">$1</div>'
+  'ui-step':
+    'prefix': 'ui-step'
+    'body': '<div class="ui step">$1</div>'
+  'ui-steps':
+    'prefix': 'ui-steps'
+    'body': '<div class="ui steps">$1</div>'
+  'ui-two-line-step':
+    'prefix': 'ui-two-line-step'
+    'body': '<div class="ui two line step">$1</div>'
+  'ui-vertical-steps':
+    'prefix': 'ui-vertical-steps'
+    'body': '<div class="ui vertical steps">$1</div>'

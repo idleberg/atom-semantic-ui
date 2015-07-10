@@ -1,0 +1,49 @@
+'.text.html -text.html.markdown':
+  'ui-collapsing-table-segment':
+    'prefix': 'ui-collapsing-table-segment'
+    'body': '<table class="ui collapsing table segment">$1</table>'
+  'ui-compact-table-segment':
+    'prefix': 'ui-compact-table-segment'
+    'body': '<table class="ui compact table segment">$1</table>'
+  'ui-inverted-black-table-segment':
+    'prefix': 'ui-inverted-black-table-segment'
+    'body': '<table class="ui inverted black table segment">$1</table>'
+  'ui-inverted-blue-table-segment':
+    'prefix': 'ui-inverted-blue-table-segment'
+    'body': '<table class="ui inverted blue table segment">$1</table>'
+  'ui-inverted-green-table-segment':
+    'prefix': 'ui-inverted-green-table-segment'
+    'body': '<table class="ui inverted green table segment">$1</table>'
+  'ui-inverted-orange-table-segment':
+    'prefix': 'ui-inverted-orange-table-segment'
+    'body': '<table class="ui inverted orange table segment">$1</table>'
+  'ui-inverted-purple-table-segment':
+    'prefix': 'ui-inverted-purple-table-segment'
+    'body': '<table class="ui inverted purple table segment">$1</table>'
+  'ui-inverted-red-table-segment':
+    'prefix': 'ui-inverted-red-table-segment'
+    'body': '<table class="ui inverted red table segment">$1</table>'
+  'ui-inverted-table-segment':
+    'prefix': 'ui-inverted-table-segment'
+    'body': '<table class="ui inverted table segment">$1</table>'
+  'ui-inverted-teal-table-segment':
+    'prefix': 'ui-inverted-teal-table-segment'
+    'body': '<table class="ui inverted teal table segment">$1</table>'
+  'ui-large-table-segment':
+    'prefix': 'ui-large-table-segment'
+    'body': '<table class="ui large table segment">$1</table>'
+  'ui-padded-table-segment':
+    'prefix': 'ui-padded-table-segment'
+    'body': '<table class="ui padded table segment">$1</table>'
+  'ui-small-table-segment':
+    'prefix': 'ui-small-table-segment'
+    'body': '<table class="ui small table segment">$1</table>'
+  'ui-sortable-padded-table-segment':
+    'prefix': 'ui-sortable-padded-table-segment'
+    'body': '<table class="ui sortable padded table segment">$1</table>'
+  'ui-sortable-table-segment':
+    'prefix': 'ui-sortable-table-segment'
+    'body': '<table class="ui sortable table segment">$1</table>'
+  'ui-table-segment':
+    'prefix': 'ui-table-segment'
+    'body': '<table class="ui table segment">$1</table>'

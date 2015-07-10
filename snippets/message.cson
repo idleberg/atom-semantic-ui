@@ -1,0 +1,58 @@
+'.text.html -text.html.markdown':
+  'ui-attached-message':
+    'prefix': 'ui-attached-message'
+    'body': '<div class="ui attached message">$1</div>'
+  'ui-blue-message':
+    'prefix': 'ui-blue-message'
+    'body': '<div class="ui blue message">$1</div>'
+  'ui-compact-message':
+    'prefix': 'ui-compact-message'
+    'body': '<div class="ui compact message">$1</div>'
+  'ui-error-message':
+    'prefix': 'ui-error-message'
+    'body': '<div class="ui error message">$1</div>'
+  'ui-floating-message':
+    'prefix': 'ui-floating-message'
+    'body': '<div class="ui floating message">$1</div>'
+  'ui-green-message':
+    'prefix': 'ui-green-message'
+    'body': '<div class="ui green message">$1</div>'
+  'ui-hidden-message':
+    'prefix': 'ui-hidden-message'
+    'body': '<div class="ui hidden message">$1</div>'
+  'ui-huge-message':
+    'prefix': 'ui-huge-message'
+    'body': '<div class="ui huge message">$1</div>'
+  'ui-icon-message':
+    'prefix': 'ui-icon-message'
+    'body': '<div class="ui icon message">$1</div>'
+  'ui-info-message':
+    'prefix': 'ui-info-message'
+    'body': '<div class="ui info message">$1</div>'
+  'ui-large-message':
+    'prefix': 'ui-large-message'
+    'body': '<div class="ui large message">$1</div>'
+  'ui-massive-message':
+    'prefix': 'ui-massive-message'
+    'body': '<div class="ui massive message">$1</div>'
+  'ui-message':
+    'prefix': 'ui-message'
+    'body': '<div class="ui message">$1</div>'
+  'ui-red-message':
+    'prefix': 'ui-red-message'
+    'body': '<div class="ui red message">$1</div>'
+  'ui-small-message':
+    'prefix': 'ui-small-message'
+    'body': '<div class="ui small message">$1</div>'
+  'ui-success-message':
+    'prefix': 'ui-success-message'
+    'body': '<div class="ui success message">$1</div>'
+  'ui-visible-message':
+    'prefix': 'ui-visible-message'
+    'body': '<div class="ui visible message">$1</div>'
+  'ui-warning-message':
+    'prefix': 'ui-warning-message'
+    'body': '<div class="ui warning message">$1</div>'
+  'ui-yellow-message':
+    'prefix': 'ui-yellow-message'
+    'body': '<div class="ui yellow message">$1</div>'

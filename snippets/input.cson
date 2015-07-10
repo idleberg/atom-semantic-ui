@@ -1,0 +1,196 @@
+'.text.html -text.html.markdown':
+  'ui-action-input':
+    'prefix': 'ui-action-input'
+    'body': """
+      <div class="ui action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-big-action-input':
+    'prefix': 'ui-big-action-input'
+    'body': """
+      <div class="ui big action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-big-icon-input':
+    'prefix': 'ui-big-icon-input'
+    'body': """
+      <div class="ui big icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-big-input':
+    'prefix': 'ui-big-input'
+    'body': """
+      <div class="ui big input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-fluid-action-input':
+    'prefix': 'ui-fluid-action-input'
+    'body': """
+      <div class="ui fluid action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-fluid-icon-input':
+    'prefix': 'ui-fluid-icon-input'
+    'body': """
+      <div class="ui fluid icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-fluid-input':
+    'prefix': 'ui-fluid-input'
+    'body': """
+      <div class="ui fluid input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-huge-action-input':
+    'prefix': 'ui-huge-action-input'
+    'body': """
+      <div class="ui huge action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-huge-icon-input':
+    'prefix': 'ui-huge-icon-input'
+    'body': """
+      <div class="ui huge icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-huge-input':
+    'prefix': 'ui-huge-input'
+    'body': """
+      <div class="ui huge input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-icon-input-loading':
+    'prefix': 'ui-icon-input-loading'
+    'body': """
+      <div class="ui icon input loading">
+      	<input type="text" placeholder="$1">
+      	<i class="icon"></i>
+      </div>    """
+  'ui-icon-input':
+    'prefix': 'ui-icon-input'
+    'body': """
+      <div class="ui icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-icon-error':
+    'prefix': 'ui-icon-error'
+    'body': """
+      <div class="ui icon error">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-input-focus':
+    'prefix': 'ui-input-focus'
+    'body': """
+      <div class="ui input focus">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-input':
+    'prefix': 'ui-input'
+    'body': """
+      <div class="ui input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-labeled-input':
+    'prefix': 'ui-labeled-input'
+    'body': """
+      <div class="ui labeled input">
+      	<input type="text" placeholder="$1">
+      	<div class="ui corner label">
+      		<i class="$2 icon"></i>
+      	</div>
+      </div>    """
+  'ui-large-action-input':
+    'prefix': 'ui-large-action-input'
+    'body': """
+      <div class="ui large action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-large-icon-input':
+    'prefix': 'ui-large-icon-input'
+    'body': """
+      <div class="ui large icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-large-input':
+    'prefix': 'ui-large-input'
+    'body': """
+      <div class="ui large input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-left-icon-input':
+    'prefix': 'ui-left-icon-input'
+    'body': """
+      <div class="ui left icon input">
+        <input type="text" placeholder="$1">
+        <i class="$2 icon"></i>
+      </div>    """
+  'ui-massive-action-input':
+    'prefix': 'ui-massive-action-input'
+    'body': """
+      <div class="ui massive action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-massive-icon-input':
+    'prefix': 'ui-massive-icon-input'
+    'body': """
+      <div class="ui massive icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-massive-input':
+    'prefix': 'ui-massive-input'
+    'body': """
+      <div class="ui massive input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-mini-action-input':
+    'prefix': 'ui-mini-action-input'
+    'body': """
+      <div class="ui mini action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-mini-icon-input':
+    'prefix': 'ui-mini-icon-input'
+    'body': """
+      <div class="ui mini icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-mini-input':
+    'prefix': 'ui-mini-input'
+    'body': """
+      <div class="ui mini input">
+      	<input type="text" placeholder="$1">
+      </div>    """
+  'ui-small-action-input':
+    'prefix': 'ui-small-action-input'
+    'body': """
+      <div class="ui small action input">
+      	<input type="text" placeholder="$1">
+      	${2:<div class="ui button">$3</div>}
+      </div>    """
+  'ui-small-icon-input':
+    'prefix': 'ui-small-icon-input'
+    'body': """
+      <div class="ui small icon input">
+      	<input type="text" placeholder="$1">
+      	<i class="$2 icon"></i>
+      </div>    """
+  'ui-small-input':
+    'prefix': 'ui-small-input'
+    'body': """
+      <div class="ui small input">
+      	<input type="text" placeholder="$1">
+      </div>    """

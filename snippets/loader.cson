@@ -1,0 +1,70 @@
+'.text.html -text.html.markdown':
+  'ui-active-dimmer':
+    'prefix': 'ui-active-dimmer'
+    'body': '<div class="ui active dimmer">$1</div>'
+  'ui-active-loader':
+    'prefix': 'ui-active-loader'
+    'body': '<div class="ui active loader">$1</div>'
+  'ui-disabled-loader':
+    'prefix': 'ui-disabled-loader'
+    'body': '<div class="ui disabled loader">$1</div>'
+  'ui-inverted-loader':
+    'prefix': 'ui-inverted-loader'
+    'body': '<div class="ui inverted loader">$1</div>'
+  'ui-inverted-text-loader':
+    'prefix': 'ui-inverted-text-loader'
+    'body': '<div class="ui inverted text loader">$1</div>'
+  'ui-large-inverted-loader':
+    'prefix': 'ui-large-inverted-loader'
+    'body': '<div class="ui large inverted loader">$1</div>'
+  'ui-large-inverted-text-loader':
+    'prefix': 'ui-large-inverted-text-loader'
+    'body': '<div class="ui large inverted text loader">$1</div>'
+  'ui-large-loader':
+    'prefix': 'ui-large-loader'
+    'body': '<div class="ui large loader">$1</div>'
+  'ui-large-text-loader':
+    'prefix': 'ui-large-text-loader'
+    'body': '<div class="ui large text loader">$1</div>'
+  'ui-loader':
+    'prefix': 'ui-loader'
+    'body': '<div class="ui loader">$1</div>'
+  'ui-medium-inverted-loader':
+    'prefix': 'ui-medium-inverted-loader'
+    'body': '<div class="ui medium inverted loader">$1</div>'
+  'ui-medium-inverted-text-loader':
+    'prefix': 'ui-medium-inverted-text-loader'
+    'body': '<div class="ui medium inverted text loader">$1</div>'
+  'ui-medium-loader':
+    'prefix': 'ui-medium-loader'
+    'body': '<div class="ui medium loader">$1</div>'
+  'ui-medium-text-loader':
+    'prefix': 'ui-medium-text-loader'
+    'body': '<div class="ui medium text loader">$1</div>'
+  'ui-mini-inverted-loader':
+    'prefix': 'ui-mini-inverted-loader'
+    'body': '<div class="ui mini inverted loader">$1</div>'
+  'ui-mini-inverted-text-loader':
+    'prefix': 'ui-mini-inverted-text-loader'
+    'body': '<div class="ui mini inverted text loader">$1</div>'
+  'ui-mini-loader':
+    'prefix': 'ui-mini-loader'
+    'body': '<div class="ui mini loader">$1</div>'
+  'ui-mini-text-loader':
+    'prefix': 'ui-mini-text-loader'
+    'body': '<div class="ui mini text loader">$1</div>'
+  'ui-small-inverted-loader':
+    'prefix': 'ui-small-inverted-loader'
+    'body': '<div class="ui small inverted loader">$1</div>'
+  'ui-small-inverted-text-loader':
+    'prefix': 'ui-small-inverted-text-loader'
+    'body': '<div class="ui small inverted text loader">$1</div>'
+  'ui-small-loader':
+    'prefix': 'ui-small-loader'
+    'body': '<div class="ui small loader">$1</div>'
+  'ui-small-text-loader':
+    'prefix': 'ui-small-text-loader'
+    'body': '<div class="ui small text loader">$1</div>'
+  'ui-text-loader':
+    'prefix': 'ui-text-loader'
+    'body': '<div class="ui text loader">$1</div>'

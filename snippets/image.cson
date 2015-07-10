@@ -1,0 +1,130 @@
+'.text.html -text.html.markdown':
+  'ui-avatar-image':
+    'prefix': 'ui-avatar-image'
+    'body': '<img class="ui avatar image" src="$1"${2: alt="$3"}>'
+  'ui-circular-image':
+    'prefix': 'ui-circular-image'
+    'body': '<img class="circular ui image" src="$1"${2: alt="$3"}>'
+  'ui-huge-image-link':
+    'prefix': 'ui-huge-image-link'
+    'body': """
+      <a href="$1" class="ui huge image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-huge-image':
+    'prefix': 'ui-huge-image'
+    'body': '<img class="ui huge image" src="$1"${2: alt="$3"}>'
+  'ui-huge-images':
+    'prefix': 'ui-huge-images'
+    'body': '<div class="ui huge images">$1</div>'
+  'ui-huge-left-floated-image':
+    'prefix': 'ui-huge-left-floated-image'
+    'body': '<img class="ui huge left floated image" src="$1"${2: alt="$3"}>'
+  'ui-huge-right-floated-image':
+    'prefix': 'ui-huge-right-floated-image'
+    'body': '<img class="ui huge right floated image" src="$1"${2: alt="$3"}>'
+  'ui-image':
+    'prefix': 'ui-image'
+    'body': '<img class="ui image" src="$1"${2: alt="$3"}>'
+  'ui-images':
+    'prefix': 'ui-images'
+    'body': '<div class="ui images">$1</div>'
+  'ui-large-image-link':
+    'prefix': 'ui-large-image-link'
+    'body': """
+      <a href="$1" class="ui large image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-large-image':
+    'prefix': 'ui-large-image'
+    'body': '<img class="ui large image" src="$1"${2: alt="$3"}>'
+  'ui-large-images':
+    'prefix': 'ui-large-images'
+    'body': '<div class="ui large images">$1</div>'
+  'ui-large-left-floated-image':
+    'prefix': 'ui-large-left-floated-image'
+    'body': '<img class="ui large left floated image" src="$1"${2: alt="$3"}>'
+  'ui-large-right-floated-image':
+    'prefix': 'ui-large-right-floated-image'
+    'body': '<img class="ui large right floated image" src="$1"${2: alt="$3"}>'
+  'ui-left-floated-image':
+    'prefix': 'ui-left-floated-image'
+    'body': '<img class="ui left floated image" src="$1"${2: alt="$3"}>'
+  'ui-medium-image-link':
+    'prefix': 'ui-medium-image-link'
+    'body': """
+      <a href="$1" class="ui medium image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-medium-image':
+    'prefix': 'ui-medium-image'
+    'body': '<img class="ui medium image" src="$1"${2: alt="$3"}>'
+  'ui-medium-images':
+    'prefix': 'ui-medium-images'
+    'body': '<div class="ui medium images">$1</div>'
+  'ui-medium-left-floated-image':
+    'prefix': 'ui-medium-left-floated-image'
+    'body': '<img class="ui medium left floated image" src="$1"${2: alt="$3"}>'
+  'ui-medium-right-floated-image':
+    'prefix': 'ui-medium-right-floated-image'
+    'body': '<img class="ui medium right floated image" src="$1"${2: alt="$3"}>'
+  'ui-mini-image-link':
+    'prefix': 'ui-mini-image-link'
+    'body': """
+      <a href="$1" class="ui mini image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-mini-image':
+    'prefix': 'ui-mini-image'
+    'body': '<img class="ui mini image" src="$1"${2: alt="$3"}>'
+  'ui-mini-images':
+    'prefix': 'ui-mini-images'
+    'body': '<div class="ui mini images">$1</div>'
+  'ui-mini-left-floated-image':
+    'prefix': 'ui-mini-left-floated-image'
+    'body': '<img class="ui mini left floated image" src="$1"${2: alt="$3"}>'
+  'ui-mini-right-floated-image':
+    'prefix': 'ui-mini-right-floated-image'
+    'body': '<img class="ui mini right floated image" src="$1"${2: alt="$3"}>'
+  'ui-right-floated-image':
+    'prefix': 'ui-right-floated-image'
+    'body': '<img class="ui right floated image" src="$1"${2: alt="$3"}>'
+  'ui-rounded-image':
+    'prefix': 'ui-rounded-image'
+    'body': '<img class="rounded ui image" src="$1"${2: alt="$3"}>'
+  'ui-small-image-link':
+    'prefix': 'ui-small-image-link'
+    'body': """
+      <a href="$1" class="ui small image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-small-image':
+    'prefix': 'ui-small-image'
+    'body': '<img class="ui small image" src="$1"${2: alt="$3"}>'
+  'ui-small-images':
+    'prefix': 'ui-small-images'
+    'body': '<div class="ui small images">$1</div>'
+  'ui-small-left-floated-image':
+    'prefix': 'ui-small-left-floated-image'
+    'body': '<img class="ui small left floated image" src="$1"${2: alt="$3"}>'
+  'ui-small-right-floated-image':
+    'prefix': 'ui-small-right-floated-image'
+    'body': '<img class="ui small right floated image" src="$1"${2: alt="$3"}>'
+  'ui-tiny-image-link':
+    'prefix': 'ui-tiny-image-link'
+    'body': """
+      <a href="$1" class="ui tiny image">
+      	<img src="$2"${3: alt="$4"}>
+      </a>    """
+  'ui-tiny-image':
+    'prefix': 'ui-tiny-image'
+    'body': '<img class="ui tiny image" src="$1"${2: alt="$3"}>'
+  'ui-tiny-images':
+    'prefix': 'ui-tiny-images'
+    'body': '<div class="ui tiny images">$1</div>'
+  'ui-tiny-left-floated-image':
+    'prefix': 'ui-tiny-left-floated-image'
+    'body': '<img class="ui tiny left floated image" src="$1"${2: alt="$3"}>'
+  'ui-tiny-right-floated-image':
+    'prefix': 'ui-tiny-right-floated-image'
+    'body': '<img class="ui tiny right floated image" src="$1"${2: alt="$3"}>'

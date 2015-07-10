@@ -1,0 +1,361 @@
+'.text.html -text.html.markdown':
+  'ui-2-buttons':
+    'prefix': 'ui-2-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      </div>    """
+  'ui-2-vertical-buttons':
+    'prefix': 'ui-2-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      </div>    """
+  'ui-3-buttons':
+    'prefix': 'ui-3-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      </div>    """
+  'ui-3-vertical-buttons':
+    'prefix': 'ui-3-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      </div>    """
+  'ui-4-buttons':
+    'prefix': 'ui-4-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      </div>    """
+  'ui-4-vertical-buttons':
+    'prefix': 'ui-4-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      </div>    """
+  'ui-5-buttons':
+    'prefix': 'ui-5-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      </div>    """
+  'ui-5-vertical-buttons':
+    'prefix': 'ui-5-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      </div>    """
+  'ui-6-buttons':
+    'prefix': 'ui-6-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      </div>    """
+  'ui-6-vertical-buttons':
+    'prefix': 'ui-6-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      </div>    """
+  'ui-7-buttons':
+    'prefix': 'ui-7-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      </div>    """
+  'ui-7-vertical-buttons':
+    'prefix': 'ui-7-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      </div>    """
+  'ui-8-buttons':
+    'prefix': 'ui-8-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      	<div class="ui button">$8</div>
+      </div>    """
+  'ui-8-vertical-buttons':
+    'prefix': 'ui-8-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      	<div class="ui button">$8</div>
+      </div>    """
+  'ui-9-buttons':
+    'prefix': 'ui-9-buttons'
+    'body': """
+      <div class="ui buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      	<div class="ui button">$8</div>
+      	<div class="ui button">$9</div>
+      </div>    """
+  'ui-9-vertical-buttons':
+    'prefix': 'ui-9-vertical-buttons'
+    'body': """
+      <div class="ui vertical buttons">
+      	<div class="ui button">$1</div>
+      	<div class="ui button">$2</div>
+      	<div class="ui button">$3</div>
+      	<div class="ui button">$4</div>
+      	<div class="ui button">$5</div>
+      	<div class="ui button">$6</div>
+      	<div class="ui button">$7</div>
+      	<div class="ui button">$8</div>
+      	<div class="ui button">$9</div>
+      </div>    """
+  'ui-active-button':
+    'prefix': 'ui-active-button'
+    'body': '<div class="ui active button">$1</div>'
+  'ui-animated-button':
+    'prefix': 'ui-animated-button'
+    'body': """
+      <div class="ui animated button">
+        <div class="visible content">$1</div>
+        <div class="hidden content">$2</div>
+      </div>    """
+  'ui-animated-fade-button':
+    'prefix': 'ui-animated-fade-button'
+    'body': """
+      <div class="ui animated fade button">
+        <div class="visible content">$1</div>
+        <div class="hidden content">$2</div>
+      </div>    """
+  'ui-basic-button':
+    'prefix': 'ui-basic-button'
+    'body': '<div class="ui basic button">$1</div>'
+  'ui-big-button':
+    'prefix': 'ui-big-button'
+    'body': '<div class="big ui button">$1</div>'
+  'ui-black-button':
+    'prefix': 'ui-black-button'
+    'body': '<div class="ui black button">$1</div>'
+  'ui-blue-button':
+    'prefix': 'ui-blue-button'
+    'body': '<div class="ui blue button">$1</div>'
+  'ui-bottom-attached-button':
+    'prefix': 'ui-bottom-attached-button'
+    'body': '<div class="ui bottom attached button">$1</div>'
+  'ui-button':
+    'prefix': 'ui-button'
+    'body': '<div class="ui button">$1</div>'
+  'ui-buttons':
+    'prefix': 'ui-buttons'
+    'body': '<div class="ui buttons">$1</div>'
+  'ui-circular-button':
+    'prefix': 'ui-circular-button'
+    'body': '<div class="circular ui button">$1</div>'
+  'ui-circular-icon-button':
+    'prefix': 'ui-circular-icon-button'
+    'body': '<div class="circular ui icon button">$1</div>'
+  'ui-disabled-button':
+    'prefix': 'ui-disabled-button'
+    'body': '<div class="ui disabled button">$1</div>'
+  'ui-down-button':
+    'prefix': 'ui-down-button'
+    'body': '<div class="ui down button"></div>'
+  'ui-facebook-button':
+    'prefix': 'ui-facebook-button'
+    'body': """
+      <div class="ui facebook button">
+      	<i class="facebook icon"></i>
+      	${1:Facebook}
+      </div>    """
+  'ui-fluid-button':
+    'prefix': 'ui-fluid-button'
+    'body': '<div class="fluid ui button">$1</div>'
+  'fluid-ui-buttons':
+    'prefix': 'fluid-ui-buttons'
+    'body': '<div class="${1:int} fluid ui buttons">$2</div>'
+  'ui-google-plus-button':
+    'prefix': 'ui-google-plus-button'
+    'body': """
+      <div class="ui google plus button">
+      	<i class="google plus icon"></i>
+      	${1:Google Plus}
+      </div>    """
+  'ui-green-button':
+    'prefix': 'ui-green-button'
+    'body': '<div class="ui green button">$1</div>'
+  'ui-hover-button':
+    'prefix': 'ui-hover-button'
+    'body': '<div class="ui hover button">$1</div>'
+  'ui-huge-button':
+    'prefix': 'ui-huge-button'
+    'body': '<div class="huge ui button">$1</div>'
+  'ui-icon-button':
+    'prefix': 'ui-icon-button'
+    'body': '<div class="ui icon button">$1</div>'
+  'ui-icon-buttons':
+    'prefix': 'ui-icon-buttons'
+    'body': '<div class="ui icon buttons">$1</div>'
+  'ui-inverted-basic-button':
+    'prefix': 'ui-inverted-basic-button'
+    'body': '<div class="ui inverted basic button">$1</div>'
+  'ui-labeled-icon-button':
+    'prefix': 'ui-labeled-icon-button'
+    'body': '<div class="ui labeled icon button">$1</div>'
+  'ui-large-button':
+    'prefix': 'ui-large-button'
+    'body': '<div class="large ui button">$1</div>'
+  'ui-left-attached-button':
+    'prefix': 'ui-left-attached-button'
+    'body': '<div class="ui left attached button">$1</div>'
+  'ui-linkedin-button':
+    'prefix': 'ui-linkedin-button'
+    'body': """
+      <div class="ui linkedin button">
+      	<i class="linkedin icon"></i>
+      	${1:LinkedIn}
+      </div>    """
+  'ui-loading-button':
+    'prefix': 'ui-loading-button'
+    'body': '<div class="ui loading button">$1</div>'
+  'ui-massive-button':
+    'prefix': 'ui-massive-button'
+    'body': '<div class="massive ui button">$1</div>'
+  'ui-medium-button':
+    'prefix': 'ui-medium-button'
+    'body': '<div class="medium ui button">$1</div>'
+  'ui-mini-button':
+    'prefix': 'ui-mini-button'
+    'body': '<div class="mini ui button">$1</div>'
+  'ui-negative-button':
+    'prefix': 'ui-negative-button'
+    'body': '<div class="negative ui button">$1</div>'
+  'ui-orange-button':
+    'prefix': 'ui-orange-button'
+    'body': '<div class="ui orange button">$1</div>'
+  'ui-positive-button':
+    'prefix': 'ui-positive-button'
+    'body': '<div class="positive ui button">$1</div>'
+  'ui-primary-button':
+    'prefix': 'ui-primary-button'
+    'body': '<div class="ui primary button">$1</div>'
+  'ui-purple-button':
+    'prefix': 'ui-purple-button'
+    'body': '<div class="ui purple button">$1</div>'
+  'ui-red-button':
+    'prefix': 'ui-red-button'
+    'body': '<div class="ui red button">$1</div>'
+  'ui-right-attached-button':
+    'prefix': 'ui-right-attached-button'
+    'body': '<div class="ui right attached button">$1</div>'
+  'ui-right-labeled-icon-button':
+    'prefix': 'ui-right-labeled-icon-button'
+    'body': '<div class="ui right labeled icon button">$1</div>'
+  'ui-secondary-button':
+    'prefix': 'ui-secondary-button'
+    'body': '<div class="ui secondary button">$1</div>'
+  'ui-small-button':
+    'prefix': 'ui-small-button'
+    'body': '<div class="small ui button">$1</div>'
+  'ui-teal-button':
+    'prefix': 'ui-teal-button'
+    'body': '<div class="ui teal button">$1</div>'
+  'ui-tiny-button':
+    'prefix': 'ui-tiny-button'
+    'body': '<div class="tiny ui button">$1</div>'
+  'ui-toggle-button':
+    'prefix': 'ui-toggle-button'
+    'body': '<div class="ui toggle button">$1</div>'
+  'ui-top-attached-button':
+    'prefix': 'ui-top-attached-button'
+    'body': '<div class="ui top attached button">$1</div>'
+  'ui-twitter-button':
+    'prefix': 'ui-twitter-button'
+    'body': """
+      <div class="ui twitter button">
+      	<i class="twitter icon"></i>
+      	${1:Twitter}
+      </div>    """
+  'ui-vertical-animated-button':
+    'prefix': 'ui-vertical-animated-button'
+    'body': """
+      <div class="ui vertical animated button">
+        <div class="hidden content">$1</div>
+        <div class="visible content">$2</div>
+      </div>    """
+  'ui-vertical-buttons':
+    'prefix': 'ui-vertical-buttons'
+    'body': '<div class="ui vertical buttons">$1</div>'
+  'ui-vertical-labeled-icon-buttons':
+    'prefix': 'ui-vertical-labeled-icon-buttons'
+    'body': '<div class="ui vertical labeled icon buttons">$1</div>'
+  'ui-vk-button':
+    'prefix': 'ui-vk-button'
+    'body': """
+      <div class="ui vk button">
+      	<i class="vk icon"></i>
+      	${1:VK}
+      </div>    """
+  'ui-youtube-button':
+    'prefix': 'ui-youtube-button'
+    'body': """
+      <div class="ui youtube button">
+      	<i class="youtube icon"></i>
+      	${1:YouTube}
+      </div>    """

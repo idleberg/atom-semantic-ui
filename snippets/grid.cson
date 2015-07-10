@@ -1,0 +1,995 @@
+'.text.html -text.html.markdown':
+  'ui-celled-grid':
+    'prefix': 'ui-celled-grid'
+    'body': '<div class="ui celled grid">$1</div>'
+  'ui-center-aligned-eight-column-grid':
+    'prefix': 'ui-center-aligned-eight-column-grid'
+    'body': """
+      <div class="ui center aligned eight column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-five-column-grid':
+    'prefix': 'ui-center-aligned-five-column-grid'
+    'body': """
+      <div class="ui center aligned five column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-four-column-grid':
+    'prefix': 'ui-center-aligned-four-column-grid'
+    'body': """
+      <div class="ui center aligned four column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-seven-column-grid':
+    'prefix': 'ui-center-aligned-seven-column-grid'
+    'body': """
+      <div class="ui center aligned seven column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-six-column-grid':
+    'prefix': 'ui-center-aligned-six-column-grid'
+    'body': """
+      <div class="ui center aligned six column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-three-column-grid':
+    'prefix': 'ui-center-aligned-three-column-grid'
+    'body': """
+      <div class="ui center aligned three column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-center-aligned-two-column-grid':
+    'prefix': 'ui-center-aligned-two-column-grid'
+    'body': """
+      <div class="ui center aligned two column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-eight-column-divided-grid':
+    'prefix': 'ui-eight-column-divided-grid'
+    'body': """
+      <div class="ui eight column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-eight-column-doubling-grid':
+    'prefix': 'ui-eight-column-doubling-grid'
+    'body': """
+      <div class="ui eight column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-eight-column-grid':
+    'prefix': 'ui-eight-column-grid'
+    'body': """
+      <div class="ui eight column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-eight-column-relaxed-grid':
+    'prefix': 'ui-eight-column-relaxed-grid'
+    'body': """
+      <div class="ui eight column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-eight-column-stackable-grid':
+    'prefix': 'ui-eight-column-stackable-grid'
+    'body': """
+      <div class="ui eight column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-five-column-divided-grid':
+    'prefix': 'ui-five-column-divided-grid'
+    'body': """
+      <div class="ui five column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-five-column-doubling-grid':
+    'prefix': 'ui-five-column-doubling-grid'
+    'body': """
+      <div class="ui five column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-five-column-grid':
+    'prefix': 'ui-five-column-grid'
+    'body': """
+      <div class="ui five column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-five-column-relaxed-grid':
+    'prefix': 'ui-five-column-relaxed-grid'
+    'body': """
+      <div class="ui five column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-five-column-stackable-grid':
+    'prefix': 'ui-five-column-stackable-grid'
+    'body': """
+      <div class="ui five column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-four-column-divided-grid':
+    'prefix': 'ui-four-column-divided-grid'
+    'body': """
+      <div class="ui four column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-four-column-doubling-grid':
+    'prefix': 'ui-four-column-doubling-grid'
+    'body': """
+      <div class="ui four column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-four-column-grid':
+    'prefix': 'ui-four-column-grid'
+    'body': """
+      <div class="ui four column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-four-column-relaxed-grid':
+    'prefix': 'ui-four-column-relaxed-grid'
+    'body': """
+      <div class="ui four column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-four-column-stackable-grid':
+    'prefix': 'ui-four-column-stackable-grid'
+    'body': """
+      <div class="ui four column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-grid':
+    'prefix': 'ui-grid'
+    'body': '<div class="ui grid">$1</div>'
+  'ui-middle-aligned-eight-column-grid':
+    'prefix': 'ui-middle-aligned-eight-column-grid'
+    'body': """
+      <div class="ui middle aligned eight column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-five-column-grid':
+    'prefix': 'ui-middle-aligned-five-column-grid'
+    'body': """
+      <div class="ui middle aligned five column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-four-column-grid':
+    'prefix': 'ui-middle-aligned-four-column-grid'
+    'body': """
+      <div class="ui middle aligned four column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-seven-column-grid':
+    'prefix': 'ui-middle-aligned-seven-column-grid'
+    'body': """
+      <div class="ui middle aligned seven column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$8</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-six-column-grid':
+    'prefix': 'ui-middle-aligned-six-column-grid'
+    'body': """
+      <div class="ui middle aligned six column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-three-column-grid':
+    'prefix': 'ui-middle-aligned-three-column-grid'
+    'body': """
+      <div class="ui middle aligned three column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-middle-aligned-two-column-grid':
+    'prefix': 'ui-middle-aligned-two-column-grid'
+    'body': """
+      <div class="ui middle aligned two column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-seven-column-divided-grid':
+    'prefix': 'ui-seven-column-divided-grid'
+    'body': """
+      <div class="ui seven column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      </div>    """
+  'ui-seven-column-doubling-grid':
+    'prefix': 'ui-seven-column-doubling-grid'
+    'body': """
+      <div class="ui seven column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      </div>    """
+  'ui-seven-column-grid':
+    'prefix': 'ui-seven-column-grid'
+    'body': """
+      <div class="ui seven column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      </div>    """
+  'ui-seven-column-relaxed-grid':
+    'prefix': 'ui-seven-column-relaxed-grid'
+    'body': """
+      <div class="ui seven column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      </div>    """
+  'ui-seven-column-stackable-grid':
+    'prefix': 'ui-seven-column-stackable-grid'
+    'body': """
+      <div class="ui seven column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$7</div>
+      	</div>
+      </div>    """
+  'ui-six-column-divided-grid':
+    'prefix': 'ui-six-column-divided-grid'
+    'body': """
+      <div class="ui six column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-six-column-doubling-grid':
+    'prefix': 'ui-six-column-doubling-grid'
+    'body': """
+      <div class="ui six column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-six-column-grid':
+    'prefix': 'ui-six-column-grid'
+    'body': """
+      <div class="ui six column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-six-column-relaxed-grid':
+    'prefix': 'ui-six-column-relaxed-grid'
+    'body': """
+      <div class="ui six column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-six-column-stackable-grid':
+    'prefix': 'ui-six-column-stackable-grid'
+    'body': """
+      <div class="ui six column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$4</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$5</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$6</div>
+      	</div>
+      </div>    """
+  'ui-three-column-divided-grid':
+    'prefix': 'ui-three-column-divided-grid'
+    'body': """
+      <div class="ui three column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-three-column-doubling-grid':
+    'prefix': 'ui-three-column-doubling-grid'
+    'body': """
+      <div class="ui three column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-three-column-grid':
+    'prefix': 'ui-three-column-grid'
+    'body': """
+      <div class="ui three column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-three-column-relaxed-grid':
+    'prefix': 'ui-three-column-relaxed-grid'
+    'body': """
+      <div class="ui three column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div></div>    """
+  'ui-three-column-stackable-grid':
+    'prefix': 'ui-three-column-stackable-grid'
+    'body': """
+      <div class="ui three column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$3</div>
+      	</div>
+      </div>    """
+  'ui-two-column-divided-grid':
+    'prefix': 'ui-two-column-divided-grid'
+    'body': """
+      <div class="ui two column divided grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-two-column-doubling-grid':
+    'prefix': 'ui-two-column-doubling-grid'
+    'body': """
+      <div class="ui two column doubling grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-two-column-grid':
+    'prefix': 'ui-two-column-grid'
+    'body': """
+      <div class="ui two column grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-two-column-relaxed-grid':
+    'prefix': 'ui-two-column-relaxed-grid'
+    'body': """
+      <div class="ui two column relaxed grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-two-column-stackable-grid':
+    'prefix': 'ui-two-column-stackable-grid'
+    'body': """
+      <div class="ui two column stackable grid">
+      	<div class="column">
+      		<div class="ui segment">$1</div>
+      	</div>
+      	<div class="column">
+      		<div class="ui segment">$2</div>
+      	</div>
+      </div>    """
+  'ui-vertically-divided-grid':
+    'prefix': 'ui-vertically-divided-grid'
+    'body': '<div class="ui vertically divided grid">$1</div>'
