@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-attached-message':
     'prefix': 'ui-attached-message'
     'body': '<div class="ui attached message">$1</div>'

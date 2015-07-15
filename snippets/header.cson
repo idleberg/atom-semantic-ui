@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-sub-header':
     'prefix': 'ui-sub-header'
     'body': '<div class="sub header">$1</div>'

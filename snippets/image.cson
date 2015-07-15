@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-avatar-image':
     'prefix': 'ui-avatar-image'
     'body': '<img class="ui avatar image" src="$1"${2: alt="$3"}>'

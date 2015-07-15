@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-celled-grid':
     'prefix': 'ui-celled-grid'
     'body': '<div class="ui celled grid">$1</div>'

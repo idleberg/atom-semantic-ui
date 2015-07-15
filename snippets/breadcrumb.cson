@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-breadcrumb':
     'prefix': 'ui-breadcrumb'
     'body': '<div class="ui breadcrumb">$1</div>'

@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-attached-segment':
     'prefix': 'ui-attached-segment'
     'body': '<div class="ui attached segment">$1</div>'

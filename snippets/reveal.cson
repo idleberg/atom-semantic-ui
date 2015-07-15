@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-circular-rotate-left-reveal-image':
     'prefix': 'ui-circular-rotate-left-reveal-image'
     'body': """

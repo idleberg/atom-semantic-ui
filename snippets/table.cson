@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-collapsing-table-segment':
     'prefix': 'ui-collapsing-table-segment'
     'body': '<table class="ui collapsing table segment">$1</table>'

@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-clearing-divider':
     'prefix': 'ui-clearing-divider'
     'body': '<div class="ui clearing divider></div>'

@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-active-dimmer':
     'prefix': 'ui-active-dimmer'
     'body': '<div class="ui active dimmer">$1</div>'

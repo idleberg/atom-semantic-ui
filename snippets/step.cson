@@ -1,4 +1,4 @@
-'.text.html -text.html.markdown':
+'.text.html':
   'ui-2-large-steps':
     'prefix': 'ui-2-large-steps'
     'body': """
