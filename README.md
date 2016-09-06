@@ -4,7 +4,7 @@
 [![apm](https://img.shields.io/apm/v/semantic-ui.svg?style=flat-square)](https://atom.io/packages/semantic-ui)
 [![apm](https://img.shields.io/apm/dm/semantic-ui.svg?style=flat-square)](https://atom.io/packages/semantic-ui)
 [![Travis](https://img.shields.io/travis/idleberg/atom-semantic-ui.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-semantic-ui)
-[![David](https://img.shields.io/david/dev/idleberg/atom-semantic-ui.svg?style=flat-square)](https://david-dm.org/idleberg/atom-semantic-ui#info=devDependencies)
+[![David](https://img.shields.io/david/dev/idleberg/atom-semantic-ui.svg?style=flat-square)](https://david-dm.org/idleberg/atom-semantic-ui?type=dev)
 
 Atom snippets for for the [Semantic UI](http://semantic-ui.com/) framework.
 
